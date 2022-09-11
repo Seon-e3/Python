@@ -1,5 +1,5 @@
 number = int(input("밑을 입력하세요> "))
-exponent = int(input("지수를 입력하세요> "))
+exponent = int(input("원하는 범위의 지수를 입력하세요> "))
 result = list()
 
 
